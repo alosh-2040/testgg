@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;
 
 // Enable CORS for Flutter app
 app.use(cors());
@@ -46,7 +46,7 @@ app.get('/channel/:id', (req, res) => {
   }
 });
 
-// POST /channels - Add or update channels (optional)
+// POST /channels - Add or update channels
 app.post('/channels', (req, res) => {
   try {
     const newChannels = req.body;
@@ -69,26 +69,6 @@ app.get('/health', (req, res) => {
 
 // Start server
 app.listen(PORT, '0.0.0.0', () => {
-  console.log('🚀 ═══════════════════════════════════════════════════');
   console.log('🚀 Server started successfully!');
-  console.log('🚀 ═══════════════════════════════════════════════════');
   console.log(`📡 Listening on: http://0.0.0.0:${PORT}`);
-  console.log(`🌐 Access from network: http://YOUR_IP:${PORT}`);
-  console.log('📋 Available endpoints:');
-  console.log(`   GET  /channels       - Get all channels`);
-  console.log(`   GET  /channel/:id    - Get specific channel`);
-  console.log(`   POST /channels       - Update channels`);
-  console.log(`   GET  /health         - Health check`);
-  console.log('🚀 ═══════════════════════════════════════════════════');
-  
-  const channels = getChannels();
-  console.log(`✅ Loaded ${channels.length} channels from database`);
-  console.log('🎬 Ready to serve streams!');
-  console.log('');
-});
-
-// Error handling
-app.use((err, req, res, next) => {
-  console.error('❌ Server error:', err);
-  res.status(500).json({ error: 'Internal server error' });
 });
