@@ -13,9 +13,15 @@
                 "url": "http://het107b.ycn-redirect.com/live/31009988005/index.m3u8?t=SIc-nlgCysqGSvoxmUnc9w&e=1763913171",
                 "quality": "240p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het114a.ycn-redirect.com/live/918454578001/index.m3u8?t=4wCgGpjnTGHeoH_cIWcvpA&e=1764002800",
+                "quality": "720p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
             }
         ]
     },
+
     {
         "id": 2,
         "name": "Bein Sports 2 HD",
@@ -30,9 +36,15 @@
                 "url": "http://het117b.ycn-redirect.com/live/10011244/index.m3u8?t=w6kywJPbCRT4BaAC3w2HwQ&e=1763913187",
                 "quality": "360p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=9g3Z9464nMtDHYOUK5cqEg&e=1764002813",
+                "quality": "720p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
             }
         ]
     },
+
     {
         "id": 3,
         "name": "Bein Sports 3 HD",
@@ -47,9 +59,15 @@
                 "url": "http://het122c.ycn-redirect.com/live/161988840/index.m3u8?t=jPEXTIL51jNst81Ly1Lrsg&e=1763913292",
                 "quality": "360p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het103b.ycn-redirect.com/live/645587700/index.m3u8?t=S4gLtVvBVw4fFTDQCVh5Jw&e=1764002824",
+                "quality": "720p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
             }
         ]
     },
+
     {
         "id": 4,
         "name": "Bein Sports 4 HD",
@@ -64,9 +82,15 @@
                 "url": "http://het122b.ycn-redirect.com/live/0103088447/index.m3u8?t=Uokse_0C8Jwey81YBNGjYA&e=1763913207",
                 "quality": "360p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het123b.ycn-redirect.com/live/9787488847/index.m3u8?t=IoGYDDHLzi-CAQnNeILr5g&e=1764002811",
+                "quality": "720p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
             }
         ]
     },
+
     {
         "id": 5,
         "name": "Bein Sports 5 HD",
@@ -81,9 +105,15 @@
                 "url": "http://het100a.ycn-redirect.com/live/115451004/index.m3u8?t=rg06tZoLK-sVpQW6Cyr2rA&e=1763913191",
                 "quality": "360p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=TCagCy3S-FwMv5gind_Lhg&e=1764003202",
+                "quality": "720p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
             }
         ]
     },
+
     {
         "id": 6,
         "name": "Bein Sports 6 HD",
@@ -98,9 +128,15 @@
                 "url": "http://het122c.ycn-redirect.com/live/788550011/index.m3u8?t=ey68mkb7PSGY3SMHMQS9LQ&e=1763913164",
                 "quality": "360p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=kVHQDyykEtLeiUcPhOHNQQ&e=1764003172",
+                "quality": "720p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
             }
         ]
     },
+
     {
         "id": 7,
         "name": "Bein Sports 7 HD",
@@ -114,6 +150,11 @@
             {
                 "url": "http://het106c.ycn-redirect.com/live/14066007/index.m3u8?t=QMlWjjx72ier1TaaESDlww&e=1763913190",
                 "quality": "360p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het112a.ycn-redirect.com/live/1515000000/index.m3u8?t=kVHQDyykEtLeiUcPhOHNQQ&e=1764003172",
+                "quality": "720p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
             }
         ]
