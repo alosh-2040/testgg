@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "name": "Bein Sports 1 HD",
+        "logo": "https://i.imgur.com/h8326Lj.png",
+        "urls": [
+            {
+                "url": "http://het120b.ycn-redirect.com/live/978480008877005/index.m3u8?t=MBWtJWQxylz1fRMxUJdznQ&e=1763913161",
+                "quality": "360p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het107b.ycn-redirect.com/live/31009988005/index.m3u8?t=SIc-nlgCysqGSvoxmUnc9w&e=1763913171",
+                "quality": "240p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bein Sports 2 HD",
+        "logo": "https://i.imgur.com/h8326Lj.png",
+        "urls": [
+            {
+                "url": "http://het110a.ycn-redirect.com/live/4798998070/index.m3u8?t=0nJZKO_dN-XT5_50lmJTPA&e=1763913380",
+                "quality": "240p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het117b.ycn-redirect.com/live/10011244/index.m3u8?t=w6kywJPbCRT4BaAC3w2HwQ&e=1763913187",
+                "quality": "360p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bein Sports 3 HD",
+        "logo": "https://i.imgur.com/h8326Lj.png",
+        "urls": [
+            {
+                "url": "http://het102b.ycn-redirect.com/live/551818447/index.m3u8?t=vsXvewMdG7hbfP6Uarv-lg&e=1763913265",
+                "quality": "240p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het122c.ycn-redirect.com/live/161988840/index.m3u8?t=jPEXTIL51jNst81Ly1Lrsg&e=1763913292",
+                "quality": "360p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Bein Sports 4 HD",
+        "logo": "https://i.imgur.com/example.png",
+        "urls": [
+            {
+                "url": "http://het105a.ycn-redirect.com/live/131326625/index.m3u8?t=0aAQ5w5U-WdgTrqU_ptXVg&e=1763913270",
+                "quality": "240p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het122b.ycn-redirect.com/live/0103088447/index.m3u8?t=Uokse_0C8Jwey81YBNGjYA&e=1763913207",
+                "quality": "360p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Bein Sports 5 HD",
+        "logo": "https://i.imgur.com/example2.png",
+        "urls": [
+            {
+                "url": "http://het102c.ycn-redirect.com/live/181818444/index.m3u8?t=PrJCelYaSJv9z8t8Lw3gZQ&e=1763913179",
+                "quality": "240p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het100a.ycn-redirect.com/live/115451004/index.m3u8?t=rg06tZoLK-sVpQW6Cyr2rA&e=1763913191",
+                "quality": "360p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Bein Sports 6 HD",
+        "logo": "https://i.imgur.com/example3.png",
+        "urls": [
+            {
+                "url": "http://het104b.ycn-redirect.com/live/9883322/index.m3u8?t=HEdptVTWYE_5wxHt7IFndA&e=1763913410",
+                "quality": "240p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het122c.ycn-redirect.com/live/788550011/index.m3u8?t=ey68mkb7PSGY3SMHMQS9LQ&e=1763913164",
+                "quality": "360p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Bein Sports 7 HD",
+        "logo": "https://i.imgur.com/example4.png",
+        "urls": [
+            {
+                "url": "http://het106b.ycn-redirect.com/live/79247621/index.m3u8?t=1F1hMZ4rgFuMViFftmYqDQ&e=1763913729",
+                "quality": "240p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://het106c.ycn-redirect.com/live/14066007/index.m3u8?t=QMlWjjx72ier1TaaESDlww&e=1763913190",
+                "quality": "360p",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            }
+        ]
+    }
+]
