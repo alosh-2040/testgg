@@ -18,10 +18,21 @@
                 "url": "http://het114a.ycn-redirect.com/live/918454578001/index.m3u8?t=4wCgGpjnTGHeoH_cIWcvpA&e=1764002800",
                 "quality": "720p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/9i_MRIg0A1SgodBkGjE16TXkrNKjOQ4UZjFOIr04QqcDGKQ1ah5ApIkwOo-FAKRF6xoB2egoJTQ--fECc2GyLA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+                "quality": "m",
+                "user_agent": "",
+                "comment": "remo"
+            },
+            {
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Y0yx_AiadByR0GQZK9rxxIamReul-l8RWps3LzM3Pqo8KaUKlfo5DY2pt8jna07lgeBVbZLw9E8YB4VPz9qQ1A/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+                "quality": "m",
+                "user_agent": "",
+                "comment": "remo"
             }
         ]
     },
-
     {
         "id": 2,
         "name": "Bein Sports 2 HD",
@@ -41,10 +52,15 @@
                 "url": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=9g3Z9464nMtDHYOUK5cqEg&e=1764002813",
                 "quality": "720p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/AoNTf_DpwVRDVH7djhiF6Vd_QcUXzxN7c2k4so-B6mJvu2l2qowExFC3UK4NxjjQxgX-fPRNupDVeEv2XfjA9Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live",
+                "quality": "m",
+                "user_agent": "",
+                "comment": "remo"
             }
         ]
     },
-
     {
         "id": 3,
         "name": "Bein Sports 3 HD",
@@ -64,10 +80,15 @@
                 "url": "http://het103b.ycn-redirect.com/live/645587700/index.m3u8?t=S4gLtVvBVw4fFTDQCVh5Jw&e=1764002824",
                 "quality": "720p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UBKJ3HVzSJl51qkQ9mmobSQctaNBVlGTI3KOld1yxRWzc73O-oQ_reJ6fV9ehOKKUhB4jZMp3MPcU4nCOJIA4g/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live",
+                "quality": "m",
+                "user_agent": "",
+                "comment": "remo"
             }
         ]
     },
-
     {
         "id": 4,
         "name": "Bein Sports 4 HD",
@@ -90,7 +111,6 @@
             }
         ]
     },
-
     {
         "id": 5,
         "name": "Bein Sports 5 HD",
@@ -110,10 +130,21 @@
                 "url": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=TCagCy3S-FwMv5gind_Lhg&e=1764003202",
                 "quality": "720p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "http://splus.smartres.net/live/65787/54353/17982.m3u8",
+                "quality": "m",
+                "user_agent": "",
+                "comment": "remo"
+            },
+            {
+                "url": "http://splus.smartres.net/live/65787/54353/31536.m3u8",
+                "quality": "m",
+                "user_agent": "",
+                "comment": "remo"
             }
         ]
     },
-
     {
         "id": 6,
         "name": "Bein Sports 6 HD",
@@ -133,10 +164,15 @@
                 "url": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=kVHQDyykEtLeiUcPhOHNQQ&e=1764003172",
                 "quality": "720p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            {
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qhersTqeE9YC3Mcp-LegrO7R-gbsjUhMUICaLDcgBJa6aWLkuD__ASdSylAvd1ZedpKvXrN5Ob2sK2AsVqT-ug/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live",
+                "quality": "m",
+                "user_agent": "",
+                "comment": "remo"
             }
         ]
     },
-
     {
         "id": 7,
         "name": "Bein Sports 7 HD",
@@ -156,6 +192,45 @@
                 "url": "http://het112a.ycn-redirect.com/live/1515000000/index.m3u8?t=kVHQDyykEtLeiUcPhOHNQQ&e=1764003172",
                 "quality": "720p",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "الثامنة 1",
+        "logo": "",
+        "urls": [
+            {
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sv22cH11HQcYlgSyr_W1r049qnNtpn4qZoMzfqhyS6hWlLKecyQMys_vzLuL4hKG26pCzlN9EIM2SFpaDcKh9Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live",
+                "quality": "m",
+                "user_agent": "",
+                "comment": "remo"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "الثامنة 2",
+        "logo": "",
+        "urls": [
+            {
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/2x9Gl-7UDsALVDdyxbyvuCCM87F9s8p9fA2_mI6tN0W-qtrOYcr--yoZl1H36KESjE-G35lQgOx5VSParDaunA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live",
+                "quality": "m",
+                "user_agent": "",
+                "comment": "remo"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "الثامنة 3",
+        "logo": "",
+        "urls": [
+            {
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/A22fV8oSiL3bF6GjPEXso2oDQnRw__tsp2wh6lsf9t_mJbz5CGyQc85mQ-PRYDBnT3Ar5vQRr4fhAixbH1mt0w/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0cmluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live",
+                "quality": "m",
+                "user_agent": "",
+                "comment": "remo"
             }
         ]
     }
